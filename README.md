@@ -4,7 +4,7 @@ The Zero Day es un juego sandbox, top down shooter, rpg, etc.
 
 ![The Zero Day](https://i.imgur.com/8n4OCAe.png)
 
-También puedes visitar el [https://github.com/MatiasVME/the-zero-day](repositorio del juego en desarrollo).
+También puedes visitar el [repositorio del juego en desarrollo](https://github.com/MatiasVME/the-zero-day).
 
 # Requerimientos
 
@@ -16,7 +16,7 @@ También puedes visitar el [https://github.com/MatiasVME/the-zero-day](repositor
 
 - Matías Muñoz Espinoza
 - Alam Perez
-- 
+- MaicolMaster
 
 ## Personas que ayudado con el arte en el pasado
 
